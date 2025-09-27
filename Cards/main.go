@@ -7,5 +7,5 @@ func main() {
 	// remainingCards.print()
 	cards := newDeck()
 
-	cards.saveToFile("My Deck")
+	cards.saveToFile("My_Deck")
 }
